@@ -24,7 +24,9 @@ blockquote {
   margin: 0;
   padding: 0;
 }
-
+h2{
+  font-size: 40px;
+}
 a {
   color: inherit;
 }
