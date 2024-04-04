@@ -87,8 +87,8 @@ header {
   margin-left: 584px;
 }
 .cover__footer{
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 .cover__footer__about {
   font-family: "Raleway";
