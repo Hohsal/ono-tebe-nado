@@ -137,6 +137,10 @@ header {
   margin-bottom: 30px;
   margin-left: 64px;
   color: #000;
+  font-family: "Raleway", Arial, Helvetica, sans-serif; 
+  font-weight: 700; 
+  font-size: 40px; 
+  line-height: 46px;
 }
 .lots__list{
   display: flex;
@@ -174,7 +178,7 @@ header {
 }
 .about {
   width: 1110px;
-  height: 595px;
+  min-height: 595px;
 }
 .about p {
   font-family: "Raleway", Arial, Helvetica, sans-serif;
